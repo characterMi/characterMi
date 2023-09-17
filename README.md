@@ -15,15 +15,17 @@ My name is Abolfazl Taghadosi, I'm 18 years old and I'm a web developer with som
 ### Skills
 
 <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/react-colored.svg" width="36" height="36" alt="React" /></a>
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-    <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-    <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+    <img src="https://github.com/characterMi/characterMi/blob/main/icons8-html.svg" width="36" height="36" alt="Html" />
+    <img src="https://github.com/characterMi/characterMi/blob/main/icons8-css.svg" width="36" height="36" alt="Css" />
+    <img src="https://github.com/characterMi/characterMi/blob/main/icons8-js.svg" width="36" height="36" alt="Js" />
+    <img src="https://github.com/characterMi/characterMi/blob/main/icons8-typescript.svg" width="36" height="36" alt="Ts" />
+    <img src="https://github.com/characterMi/characterMi/blob/main/icons8-bootstrap.svg" width="36" height="36" alt="Bootstrap" />
+    <img src="https://github.com/characterMi/characterMi/blob/main/icons8-react-native.svg" width="36" height="36" alt="React" />
+    <img src="https://github.com/characterMi/characterMi/blob/main/icons8-material-ui.svg" width="36" height="36" alt="Mui" />
+    <img src="https://github.com/characterMi/characterMi/blob/main/icons8-redux.svg" width="36" height="36" alt="Redux" />
+    <img src="https://github.com/characterMi/characterMi/blob/main/icons8-nodejs.svg" width="36" height="36" alt="NodeJs" />
+    <img src="https://github.com/characterMi/characterMi/blob/main/icons8-photoshop.svg" width="36" height="36" alt="PhotoShop" />
+     <img src="https://github.com/characterMi/characterMi/blob/main/icons8-vs-code.svg" width="36" height="36" alt="VS Code" />
 </p>
 
 ### Contact
@@ -31,8 +33,7 @@ My name is Abolfazl Taghadosi, I'm 18 years old and I'm a web developer with som
 let me know if you have any questions or feedback :
 
 <p align="left">
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/instagram.svg" width="32" height="32" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/github.svg" width="32" height="32" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="32" height="32" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/behance.svg" width="32" height="32" /></a>
+    <a href="https://instagram.com/character_mi" target="_blank" rel="noreferrer"><img src="https://github.com/characterMi/characterMi/blob/main/icons8-instagram.svg" width="32" height="32" /></a>
+    <a href="https://t.me/character_mi" target="_blank" rel="noreferrer"><img src="https://github.com/characterMi/characterMi/blob/main/icons8-telegram.svg" width="32" height="32" /></a>
+    <a href="mailto:abol1385fx@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/characterMi/characterMi/blob/main/icons8-gmail.svg" width="32" height="32" /></a>
 </p>
