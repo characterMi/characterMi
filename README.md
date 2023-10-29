@@ -24,11 +24,11 @@ I'm 18 years old and I'm a web developer with some skills in HTML, CSS, JavaScri
     <img src="https://github.com/characterMi/characterMi/blob/main/icons8-js.svg" width="36" height="36" alt="Js" />
     <img src="https://github.com/characterMi/characterMi/blob/main/icons8-typescript.svg" width="36" height="36" alt="Ts" />
     <img src="https://github.com/characterMi/characterMi/blob/main/icons8-bootstrap.svg" width="36" height="36" alt="Bootstrap" />
+    <img src="https://github.com/characterMi/characterMi/blob/main/tailwind.svg" width="36" height="36" alt="Tailwind Css" />
   <img src="https://github.com/characterMi/characterMi/blob/main/icons8-sass.svg" 
 width="36"  height="36"   alt="Sass" />
     <img src="https://github.com/characterMi/characterMi/blob/main/icons8-react-native.svg" width="36" height="36" alt="React" />
     <img src="https://github.com/characterMi/characterMi/blob/main/threeJs-icon.png" width="36" height="36" alt="three.js" />
-    <img src="https://github.com/characterMi/characterMi/blob/main/gsap-icon.png" width="36" height="36" alt="gsap" />
     <img src="https://github.com/characterMi/characterMi/blob/main/icons8-material-ui.svg" width="36" height="36" alt="Mui" />
     <img src="https://github.com/characterMi/characterMi/blob/main/icons8-redux.svg" width="36" height="36" alt="Redux" />
     <img src="https://github.com/characterMi/characterMi/blob/main/icons8-nextjs.svg" width="36" height="36" alt="NextJs" />
