@@ -24,6 +24,7 @@ I'm 18 years old and I'm a web developer with some skills in HTML, CSS, JavaScri
     <img src="https://github.com/characterMi/characterMi/blob/main/icons8-js.svg" width="36" height="36" alt="Js" />
     <img src="https://github.com/characterMi/characterMi/blob/main/icons8-typescript.svg" width="36" height="36" alt="Ts" />
     <img src="https://github.com/characterMi/characterMi/blob/main/icons8-bootstrap.svg" width="36" height="36" alt="Bootstrap" />
+  <img src="https://github.com/characterMi/characterMi/blob/main/tailwind.svg" width="36" height="36" alt="Tailwind" />
   <img src="https://github.com/characterMi/characterMi/blob/main/icons8-sass.svg" 
 width="36"  height="36"   alt="Sass" />
     <img src="https://github.com/characterMi/characterMi/blob/main/icons8-react-native.svg" width="36" height="36" alt="React" />
