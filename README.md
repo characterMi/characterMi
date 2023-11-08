@@ -29,7 +29,6 @@ I'm 18 years old and I'm a web developer with some skills in HTML, CSS, JavaScri
 width="36"  height="36"   alt="Sass" />
     <img src="https://github.com/characterMi/characterMi/blob/main/icons8-react-native.svg" width="36" height="36" alt="React" />
     <img src="https://github.com/characterMi/characterMi/blob/main/threeJs-icon.png" width="36" height="36" alt="three.js" />
-    <img src="https://github.com/characterMi/characterMi/blob/main/gsap-icon.png" width="36" height="36" alt="gsap" />
     <img src="https://github.com/characterMi/characterMi/blob/main/icons8-material-ui.svg" width="36" height="36" alt="Mui" />
     <img src="https://github.com/characterMi/characterMi/blob/main/icons8-redux.svg" width="36" height="36" alt="Redux" />
     <img src="https://github.com/characterMi/characterMi/blob/main/icons8-nextjs.svg" width="36" height="36" alt="NextJs" />
