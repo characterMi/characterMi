@@ -12,7 +12,7 @@ I'm 18 years old and I'm a web developer with some skills in HTML, CSS, JavaScri
 
 - 🌍  I'm based in Mashhad (Iran)
 - 🖥️  See my [Portfolio](https://charactermi.github.io/first-portfolio/)
-- 🖱️  And my second [Portfolio]()
+- 🖱️  And my second [Portfolio](https://charactermi.github.io/second-portfolio/)
 - ✉️  You can contact me at [abol1385fx@gmail.com](mailto:abol1385fx@gmail.com)
 - 🧠  I'm learning NextJs
 
