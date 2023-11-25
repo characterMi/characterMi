@@ -8,7 +8,7 @@ About Me
 ### Hi there 👋🏻 My name is Abolfazl, I'm just a front-end developer and I love Coding.
 
 
-I'm 18 years old and I'm a web developer with some skills in HTML, CSS, JavaScript, TypeScript and other frameworks and libraries. I am currently learning NextJs and I'm excited to continue expanding my knowledge in the field of web development.
+I'm 18 years old and I'm a web developer with skills in HTML, CSS, JavaScript, TypeScript and other frameworks and libraries. I am currently learning NextJs and I'm excited to continue expanding my knowledge in the field of web development.
 
 - 🌍  I'm based in Mashhad (Iran)
 - 🖥️  See my [Portfolio](https://charactermi.github.io/first-portfolio/)
