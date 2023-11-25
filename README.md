@@ -16,7 +16,7 @@ I'm 18 years old and I'm a web developer with skills in HTML, CSS, JavaScript, T
 - ✉️  You can contact me at [abol1385fx@gmail.com](mailto:abol1385fx@gmail.com)
 - 🧠  I'm learning NextJs
 
-### Skills
+### Technologies
 
 <p align="left">
     <img src="https://github.com/characterMi/characterMi/blob/main/icons8-html.svg" width="36" height="36" alt="Html" />
