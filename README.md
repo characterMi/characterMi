@@ -1,6 +1,8 @@
-<img src="./images/banners/Black Minimalist Corporate Business Profile LinkedIn Banner.png" alt="Banner" width="100%" />
+<p align="center">
+  <img src="https://camo.githubusercontent.com/d2db2a98e00e44236180c960d84879e5a080a5c7b400da061a79a16bc9fe6dcf/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d393026636f6c6f723d6772616469656e74" width="100%" alt="Header"/>
+</p>
 
-<h1 align="center">Abolfazl Taghadosi</h1>
+# About Me
 
 ## About me
 
@@ -9,10 +11,10 @@
 I'm 18 years old and I'm a web developer with skills in HTML, CSS, JavaScript, TypeScript and frameworks like TailwindCSS, Next.js and Three.js. I am currently learning Three.js and I'm excited to continue expanding my knowledge in the field of web development.
 
 - 🌍  I'm based in Mashhad (Iran)
-- 🖥️  See my [Portfolio](https://charactermi.github.io/second-portfolio/)
-- 🖱️ And my second [Portfolio](https://charactermi.github.io/first-portfolio/)
+- 🖥️  See my [Portfolio](https://charactermi.github.io/first-portfolio/)
+- 🖱️ And my second [Portfolio](https://charactermi.github.io/second-portfolio/)
 - ✉️  You can contact me at [abol1385fx@gmail.com](mailto:abol1385fx@gmail.com)
-- 🌱  I'm learning Three.js
+- 🧠  I'm learning NextJs
 
 ## Top Skills
 
