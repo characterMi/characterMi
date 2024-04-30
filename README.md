@@ -32,6 +32,7 @@ I'm 18 years old and I'm a web developer with skills in HTML, CSS, JavaScript, T
     <img src="./images/technologies/icons8-material-ui.svg" alt="MUI" width="60" height="60" />
     <img src="./images/technologies/gsap-icon.png" alt="gsap" width="60" height="60" />
     <img src="./images/technologies/icons8-docker.svg" alt="Docker" width="60" height="60" />
+    <img src="./images/technologies/pwa.png" alt="PWA" width="100" height="40" />
     <img src="./images/technologies/icons8-vs-code.svg" alt="vscode" width="60" height="60" />
 </p>
 
@@ -55,7 +56,7 @@ let me know if you have any questions or feedback :
 
 <div align="left">
     <a href="https://linkedin.com/in/abolfazl-taghadosi" target="_blank" rel="noreferrer noopener">
-        <img align="center" src="./images/socials/icons8-linkedin.svg" alt="Linkedin" height="32" width="32" style="margin-top: -25px" />
+        <img src="./images/socials/icons8-linkedin.svg" alt="Linkedin" height="32" width="32" />
     </a>
     <a href="https://instagram.com/character_mi" target="_blank" rel="noreferrer noopener">
         <img src="./images/socials/icons8-instagram.svg" alt="Instagram" width="32" height="32" />
