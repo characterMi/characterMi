@@ -45,6 +45,7 @@ I'm 18 years old and I'm a web developer with skills in HTML, CSS, JavaScript, T
 - [Gym Lovers](https://charactermi.github.io/gym-lovers)
 - [ATB Media](https://charactermi.github.io/atb_media)
 - [Marble Race Game](https://charactermi.github.io/marble-race)
+- [Car Game](https://charactermi.github.io/car-game)
 
 ## Languages
 
