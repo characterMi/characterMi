@@ -4,7 +4,7 @@
 
 ## About me
 
-Hello! my name is "Abolfazl", I have 18 years old and I'm a web developer. I work with both JavaScript and TypeScript (mostly TypeScript). I have skills in React, Next.js, Tailwindcss and Three.js.
+Hello! my name is "Abolfazl", I am 18 years old and I'm a web developer. I work with both JavaScript and TypeScript (mostly TypeScript). I have skills in React, Next.js, Tailwindcss and Three.js.
 
 - 🌍 I'm based in Mashhad (Iran)
 - 🖥️ Checkout my [Portfolio](https://abolfazl-taghadosi.vercel.app/)
