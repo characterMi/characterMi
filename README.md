@@ -4,12 +4,10 @@
 
 ## About me
 
-### Hi there 👋🏻 My name is Abolfazl, I'm a front-end developer.
-
-I'm 18 years old and I'm a web developer with skills in HTML, CSS, JavaScript, TypeScript and frameworks like TailwindCSS, Next.js and Three.js. I am currently learning Three.js and I'm excited to continue expanding my knowledge in the field of web development.
+Hello! my name is "Abolfazl", I have 18 years old and I'm a web developer. I work with both JavaScript and TypeScript (mostly TypeScript). I have skills in React, Next.js, Tailwindcss and Three.js.
 
 - 🌍 I'm based in Mashhad (Iran)
-- 🖥️ See my [Portfolio](https://abolfazl-taghadosi.vercel.app/)
+- 🖥️ Checkout my [Portfolio](https://abolfazl-taghadosi.vercel.app/)
 - ✉️ You can contact me at [abol1385fx@gmail.com](mailto:abol1385fx@gmail.com)
 - 🌱 I'm learning Three.js
 
@@ -29,10 +27,7 @@ I'm 18 years old and I'm a web developer with skills in HTML, CSS, JavaScript, T
     <img src="./images/technologies/icons8-redux.svg" alt="Redux" width="60" height="60" />
     <img src="./images/technologies/rtk_query.png" alt="React Query" width="60" height="60" />
     <img src="./images/technologies/icons8-material-ui.svg" alt="MUI" width="60" height="60" />
-    <img src="./images/technologies/gsap-icon.png" alt="gsap" width="60" height="60" />
-    <img src="./images/technologies/icons8-docker.svg" alt="Docker" width="60" height="60" />
     <img src="./images/technologies/pwa.png" alt="PWA" width="100" height="40" />
-    <img src="./images/technologies/icons8-vs-code.svg" alt="vscode" width="60" height="60" />
 </p>
 
 ## Projects
@@ -48,7 +43,7 @@ I'm 18 years old and I'm a web developer with skills in HTML, CSS, JavaScript, T
 
 ## Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=charactermi&show_icons=true&locale=en&layout=compact" alt="characterMi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=charactermi&show_icons=true&locale=en&layout=compact" alt="Languages" />
 
 ## Socials
 
