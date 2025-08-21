@@ -8,7 +8,7 @@ Hello! my name is "Abolfazl", I am 19 years old and I'm a web developer. I work 
 
 - 🌍 I'm based in Mashhad (Iran)
 - 🖥️ Checkout my [Portfolio](https://abolfazl-taghadosi.vercel.app/)
-- ✉️ You can contact me at [abol1385fx@gmail.com](mailto:abol1385fx@gmail.com)
+- ✉️ You can contact me at [workabolfazltaghadosi@gmail.com](mailto:workabolfazltaghadosi@gmail.com)
 - 🌱 I'm learning Three.js
 
 ## Top Skills
@@ -60,7 +60,7 @@ let me know if you have any questions or feedback :
     <a href="https://t.me/character_mi" target="_blank" rel="noreferrer noopener">
         <img src="./images/socials/icons8-telegram.svg" alt="Telegram" width="32" height="32" />
     </a>
-    <a href="mailto:abol1385fx@gmail.com" target="_blank" rel="noreferrer noopener">
+    <a href="mailto:workabolfazltaghadosi@gmail.com" target="_blank" rel="noreferrer noopener">
         <img src="./images/socials/icons8-gmail.svg" alt="Gmail" width="32" height="32" />
     </a>
 </div>
