@@ -1,12 +1,10 @@
 <img src="./images/banners/Black Minimalist Corporate Business Profile LinkedIn Banner.png" alt="Banner" width="100%" />
 
-<h1 align="center">Abolfazl Taghadosi</h1>
-
 ## About me
 
-Hello! my name is "Abolfazl", I am 19 years old and I'm a web developer. I work with both JavaScript and TypeScript (mostly TypeScript). I have skills in React, Next.js, Tailwindcss and Three.js.
+Hello! my name is "Abolfazl" and I'm 19 years old. I'm a Software engineer and i like cybersecurity, reverse engineering, and overall system-level stuff, but currently I'm focused on Front-end development. I work with both JavaScript and TypeScript (mostly TypeScript). I have skills in React, Next.js, Tailwindcss and Three.js.
 
-- 🌍 I'm based in Mashhad (Iran)
+- 🌍 I'm from Mashhad (Iran)
 - 🖥️ Checkout my [Portfolio](https://abolfazl-taghadosi.vercel.app/)
 - ✉️ You can contact me at [workabolfazltaghadosi@gmail.com](mailto:workabolfazltaghadosi@gmail.com)
 - 🌱 I'm learning Three.js
@@ -14,37 +12,23 @@ Hello! my name is "Abolfazl", I am 19 years old and I'm a web developer. I work 
 ## Top Skills
 
 <p align="left">
-    <img src="./images/technologies/icons8-html.svg" alt="Html" width="60" height="60" />
-    <img src="./images/technologies/icons8-css.svg" alt="Css" width="60" height="60" />
-    <img src="./images/technologies/icons8-sass.svg" alt="Sass" width="60" height="60" />
-    <img src="./images/technologies/icons8-js.svg" alt="JS" width="60" height="60" />
-    <img src="./images/technologies/icons8-typescript.svg" alt="TS" width="60" height="60" />
-    <img src="./images/technologies/icons8-react-native.svg" alt="React" width="60" height="60" />
-    <img src="./images/technologies/icons8-bootstrap.svg" alt="Bootstrap" width="60" height="60" />
-    <img src="./images/technologies/tailwind.svg" alt="Tailwind" width="60" height="60" />
-    <img src="./images/technologies/nextjs-original.svg" alt="Next.js" width="60" height="60" />
-    <img src="./images/technologies/threeJs-icon.png" alt="Three.js" width="52" height="52" />
-    <img src="./images/technologies/icons8-redux.svg" alt="Redux" width="60" height="60" />
-    <img src="./images/technologies/rtk_query.png" alt="React Query" width="60" height="60" />
-    <img src="./images/technologies/icons8-material-ui.svg" alt="MUI" width="60" height="60" />
-    <img src="./images/technologies/pwa.png" alt="PWA" width="100" height="40" />
+    <b>Languages & Core Web:</b> HTML5 – CSS3 – SASS – JavaScript (ES6+) – TypeScript <br>
+    <b>Frameworks & State Management:</b> React – Next.js – Three.js – Redux/Redux-Toolkit – Zustand– Recoil – TanStack Query (React Query) <br>
+    <b>UI & Animations:</b> Bootstrap – Tailwind CSS – Material UI – ShadCN UI – GSAP – Framer Motion <br>
+    <b>Testing, Tools & Other:</b> Jest – React Testing Library – Vitest – Progressive Web Apps (PWA) – Drizzle ORM – Prisma – Git – GitHub
 </p>
 
 ## Projects
 
+- [MelodiMix (Spotify clone)](https://melodi-mix.vercel.app)
 - [Lingo (Language leaning app)](https://charactermi-lingo.vercel.app)
 - [Filmhub](https://charactermi.github.io/film_hub)
 - [Design-Wave (Canva clone)](https://design-wave.vercel.app)
-- [MelodiMix (Spotify clone)](https://melodi-mix.vercel.app)
-- [GTA VI landing](https://charactermi-gta.vercel.app)
+- [GTA VI landing](https://charactermi.github.io/gta-vi)
 - [Gym Lovers](https://charactermi.github.io/gym-lovers)
 - [ATB Media](https://charactermi.github.io/atb_media)
 - [Marble Race Game](https://charactermi.github.io/marble-race)
 - [Car Game](https://charactermi.github.io/car-game)
-
-## Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=charactermi&show_icons=true&locale=en&layout=compact" alt="Languages" />
 
 ## Socials
 
