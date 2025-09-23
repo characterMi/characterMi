@@ -1,4 +1,4 @@
-<img src="./images/banners/Black Minimalist Corporate Business Profile LinkedIn Banner.png" alt="Banner" width="100%" />
+<img src="./images/banners/header-banner.png" alt="Banner" width="100%" />
 
 ## About me
 
