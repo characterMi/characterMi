@@ -1,4 +1,4 @@
-<img src="./images/banners/header-banner.png" alt="Banner" width="100%" />
+<img src="./images/header-banner.png" alt="Banner" width="100%" />
 
 ## About me
 
