@@ -30,6 +30,25 @@ Hello! my name is "Abolfazl" and I'm 19 years old. I'm a Software engineer and i
 - [Marble Race Game](https://charactermi.github.io/marble-race)
 - [Car Game](https://charactermi.github.io/car-game)
 
+<details>
+    <summery>
+        <h2>Other Projects</h2>
+    </summery>
+
+    - [Hoobank Project](https://charactermi.github.io/hoobank_project)
+    - [Metaversus](https://charactermi.github.io/metaversus)
+    - [Hilink travel app](https://charactermi.github.io/hilink-travel_app)
+    - [iPhone 15 pro](https://charactermi-iphone-15.vercel.app)
+    - [AnimeVault](https://anime-vault-next.vercel.app/)
+    - [Nike Website](https://charactermi.github.io/nike-website)
+    - [Admin Panel](https://admin-dashboard-app-lovat.vercel.app/)
+    - [Customizable shirt](https://charactermi.github.io/customizable-shirt)
+    - [Coca-Cola](https://charactermi.github.io/coca-cola_zero)
+    - [Nexus rocket](https://charactermi.github.io/nasa_nexus)
+    - [Movies](https://charactermi.github.io/movies)
+
+</details>
+
 ## Socials
 
 let me know if you have any questions or feedback :
