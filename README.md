@@ -1,15 +1,15 @@
-<img src="./images/header-banner.png" alt="Banner" width="100%" />
+<img src="./images/header-banner.gif" alt="Animated Banner" width="100%" />
 
-## About me
+# About me
 
-Hello! my name is "Abolfazl" and I'm 19 years old. I'm a Software engineer and i like cybersecurity, reverse engineering, and overall system-level stuff, but currently I'm focused on Front-end development. I work with both JavaScript and TypeScript (mostly TypeScript). I have skills in React, Next.js, Tailwindcss and Three.js.
+Hello! my name is "Abolfazl", and I'm 19 years old. I'm a Software engineer and i like cybersecurity, reverse engineering, and overall system-level stuff, but currently I'm focused on Front-end development. I work with both JavaScript and TypeScript (mostly TypeScript). I have skills in React, Next.js, Tailwindcss and Three.js.
 
 - 🌍 I'm from Mashhad (Iran)
 - 🖥️ Checkout my [Portfolio](https://abolfazl-taghadosi.vercel.app/)
 - ✉️ You can contact me at [workabolfazltaghadosi@gmail.com](mailto:workabolfazltaghadosi@gmail.com)
-- 🌱 I'm learning Three.js
+- 🌱 I'm learning Svelte
 
-## Top Skills
+# Top Skills
 
 <p align="left">
     <b>Languages & Core Web:</b> HTML5 – CSS3 – SASS – JavaScript (ES6+) – TypeScript <br>
@@ -18,7 +18,7 @@ Hello! my name is "Abolfazl" and I'm 19 years old. I'm a Software engineer and i
     <b>Testing, Tools & Other:</b> Jest – React Testing Library – Vitest – Progressive Web Apps (PWA) – Drizzle ORM – Prisma – Git – GitHub
 </p>
 
-## Projects
+# Projects
 
 - [MelodiMix (Spotify clone)](https://melodi-mix.vercel.app)
 - [Lingo (Language leaning app)](https://charactermi-lingo.vercel.app)
@@ -32,7 +32,7 @@ Hello! my name is "Abolfazl" and I'm 19 years old. I'm a Software engineer and i
 
 <details>
     <summary>
-        <h2>Other Projects</h2>
+        <h1>Other Projects</h1>
     </summary>
     
 - [Hoobank Project](https://charactermi.github.io/hoobank_project)
@@ -48,7 +48,7 @@ Hello! my name is "Abolfazl" and I'm 19 years old. I'm a Software engineer and i
 - [Movies](https://charactermi.github.io/movies)
 </details>
 
-## Socials
+# Socials
 
 let me know if you have any questions or feedback :
 
